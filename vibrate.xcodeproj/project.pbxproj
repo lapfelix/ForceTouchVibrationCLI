@@ -217,6 +217,8 @@
 		DC0B525E1DDABC1E0005E47D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = DVKB9Z8TQ2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -225,6 +227,8 @@
 		DC0B525F1DDABC1E0005E47D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = DVKB9Z8TQ2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
