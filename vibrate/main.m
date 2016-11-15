@@ -37,7 +37,7 @@ int main(int argc, const char * argv[]) {
 }
 
 void printHelp() {
-    printf("\nUsage:\n\nVibrate for 0.5 seconds: \tvibrate -t 0.5\nVibrate for 30 seconds: \tvibrate --time 30\nVibrate forever: \tvibrate");
+    printf("\nUsage:\n\nVibrate for 0.5 seconds: \tvibrate -t 0.5\nVibrate for 30 seconds: \tvibrate --time 30\nVibrate forever:    \t\tvibrate\n");
 }
 
 void vibrateForever() {
