@@ -19,3 +19,11 @@ It probably shouldn't be used for anything serious, as explained very clearly by
    for the reader.
 */
 ```
+
+## Usage
+```
+Vibrate for 0.5 seconds:   vibrate -t 0.5
+Vibrate for 30 seconds:    vibrate --time 30
+Vibrate forever:           vibrate
+Show help:                 vibrate --help
+```
